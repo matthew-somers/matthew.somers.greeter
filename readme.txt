@@ -1,0 +1,1 @@
+Simple android application to greet a friend (with a surprise).

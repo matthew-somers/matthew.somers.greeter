@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Greeter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <color name="myColor">#F5F5F5</color>
+    <string name="greeting">Hi Catherine!</string>
+    <string name="clicky">Click for a (small) surprise :o</string>
+    <string name="clickme">Click Me</string>
+
+</resources>
